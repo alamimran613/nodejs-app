@@ -1,6 +1,5 @@
 Certainly! Below is a README.md file that you can use for your Node.js application hosted on an EC2 instance:
 
-```markdown
 # Node.js Application on AWS EC2
 
 This repository contains a simple Node.js application hosted on an Amazon EC2 instance. The application consists of a frontend with `index.html`, `style.css`, and `script.js`, and a backend with `server.js`. The application is HTTP-based, and for HTTPS, Amazon ACM and ELB (Elastic Load Balancer) are recommended.
